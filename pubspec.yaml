@@ -1,8 +1,8 @@
 name: app_tour_flutter
 description: "A new Flutter project."
-version: 0.0.1
-homepage: https://github.com/askankit/app_tour_flutter.git
-repository: https://github.com/askankit/app_tour_flutter.git
+version: 1.0.0
+homepage: https://github.com/askankit/app_tour_flutter/tree/main/example
+repository: https://github.com/askankit/app_tour_flutter/tree/main/example
 
 
 environment:

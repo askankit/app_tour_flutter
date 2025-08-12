@@ -1,4 +1,4 @@
-import 'package:app_tour_flutter/app_tour_widget.dart';
+import 'package:app_tour_flutter/app_tour_flutter.dart';
 import 'package:flutter/material.dart';
 
 void main() {
