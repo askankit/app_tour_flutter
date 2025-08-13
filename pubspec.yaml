@@ -1,5 +1,5 @@
 name: app_tour_flutter
-description: "A new Flutter project."
+description: "A customizable Flutter package for creating guided app tours with highlighted widgets and speech bubbles."
 version: 1.0.0
 homepage: https://github.com/askankit/app_tour_flutter/tree/main/example
 repository: https://github.com/askankit/app_tour_flutter/tree/main/example
